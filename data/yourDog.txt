@@ -1,0 +1,5 @@
+Race : Bulldog
+Age : 2
+BirthDate  : 2018-3-21
+OwnerName : Amir
+IsMicrochipped : false

@@ -1,0 +1,5 @@
+Race : Doberman
+Age : 3
+BirthDate  : 2020-3-21
+OwnerName : Shahryar
+IsMicrochipped : true
